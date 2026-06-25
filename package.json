@@ -14,7 +14,7 @@
 		"publish": true
 	},
 	"dependencies": {
-		"@openauthjs/openauth": "0.4.3",
+		"@openauthjs/openauth": "^0.4.3",
 		"valibot": "1.2.0"
 	},
 	"devDependencies": {
